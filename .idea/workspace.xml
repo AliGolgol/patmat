@@ -15,10 +15,14 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1afWa2zklGo4sQEaoVaZHthw05D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -68,21 +72,25 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="100" y="123" width="1240" height="677" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.877@0.23.1440.877" timestamp="1587130293704" />
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1587131924196">
+    <state x="297" y="37" key="CommitChangelistDialog2" timestamp="1588526480620">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1587131924196" />
-    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1587131924195">
+    <state x="297" y="37" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1588526480620" />
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1588526192343">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1587131924195" />
-    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1587131924194">
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1588526192343" />
+    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1588526192343">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1587131924194" />
-    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1587131924195">
+    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1588526192343" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1588526192342">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1587131924195" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1588526192342" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1588526192343">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1588526192343" />
   </component>
 </project>
